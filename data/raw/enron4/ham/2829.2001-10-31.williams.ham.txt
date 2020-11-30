@@ -1,3 +1,0 @@
-Subject: path 30 mitigation
-system notification : at 0115 pst , wacm terminated request for coordinated
-operation controllable devices for path 30 usf mitigation .
