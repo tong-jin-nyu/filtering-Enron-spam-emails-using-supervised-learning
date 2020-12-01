@@ -1,4 +1,4 @@
-# spam-prediction-supervised-ML
+# Predicting Enron Spam Emails (Junk Messages) using Supervised Learning
 This repo is for 1001: Intro to DS group project. (Team member: Jiejie Wang, Zixuan Zhou, Tong Jin)
 
 ## Project Name
