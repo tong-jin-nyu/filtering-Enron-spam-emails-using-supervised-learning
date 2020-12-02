@@ -54,6 +54,18 @@ Team Members:
   - folder: `raw`: original data files downloaded from [Enron Spam Data Warehouse](http://www2.aueb.gr/users/ion/data/enron-spam/)
 - dev: `script`: all project related scripts are stored in this folder
 
+## Exploratory Data Analysis
+
+*For details, please read the full EDA report.*
+
+![Distribution of Word Counts in Email Instances](results/distribution_of_word_counts_in_email_instances.png)
+
+![Word Cloud Type 1](results/word_cloud_type1.png)
+
+![Word Cloud Type 2](results/word_cloud_type2.png)
+
+![Top 15 Common Words Used in Emails](results/top_15_common_words_used_in_emails.png)
+
 ## Reference
 
 Metsis, I. Androutsopoulos and G. Paliouras, ["Spam Filtering with Naive Bayes - Which Naive Bayes?"](http://www2.aueb.gr/users/ion/docs/ceas2006_paper.pdf). Proceedings of the 3rd Conference on Email and Anti-Spam (CEAS 2006), Mountain View, CA, USA, 2006.
