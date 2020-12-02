@@ -34,6 +34,10 @@ Using machine learning techniques to train a classifier that automatically ident
 
 We use AUC (Area Under the ROC Curve) scores to measure model performance. Additionally, we apply confusion matrix to visualize model accuracy.
 
+## Data
+
+The data are acquired from the "preprocessed subdirectory" of the [Enron-Spam datasets](http://www2.aueb.gr/users/ion/data/enron-spam/). The "preprocessed" subdirectory contains the email messages in the preprocessed format. Each email instance is in a separate text file.
+
 ## Team
 
 Team Name: **A3SR**
@@ -46,9 +50,9 @@ Team Members:
 
 ## File Structure
 
-- folder: `data`: data files
-  - folder: `raw`: original 
-- dev
+- folder: `data`: all data files are stored in this folder
+  - folder: `raw`: original data files downloaded from [Enron Spam Data Warehouse](http://www2.aueb.gr/users/ion/data/enron-spam/)
+- dev: `script`: all project related scripts are stored in this folder
 
 ## Reference
 
