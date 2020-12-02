@@ -1,5 +1,4 @@
-# Predicting Enron Spam Emails (Junk Messages) using Supervised Learning
-This repo is for 1001: Intro to DS group project. (Team member: Jiejie Wang, Zixuan Zhou, Tong Jin)
+# Predicting Enron Spam Emails using Supervised Learning
 
 ## Project Name
 
@@ -7,7 +6,7 @@ Predicting Enron Spam Emails (Junk Messages) using Supervised Learning
 
 ## Description
 
-This project applies supervised machine learning techniques to build a spam email classifier which automatically detects spam emails (junk messages). It is the final project of the [DS-GA 1001: Introduction to Machine Learning](https://github.com/briandalessandro/DataScienceCourse) course at New York University. 
+This project applies supervised machine learning techniques to build a spam email classifier which automatically detects spam emails (junk messages). It is the final project of the [DS-GA 1001: Introduction to Machine Learning](https://github.com/briandalessandro/DataScienceCourse) course at New York University.
 
 ### Business Problem
 
@@ -27,7 +26,7 @@ Using machine learning techniques to train a classifier that automatically ident
 
 4. Naive Bayes
 
-5. Multilayer perceptron (Neural Network)
+5. Multilayer Perceptron (Neural Network)
 
 6. Gradient boosting machine
 
@@ -41,6 +40,16 @@ Team Name: **A3SR**
 
 Team Members:
 
-- Jiejie Wang
-- Tong Jin
-- Zixuan Zhou
+- [Jiejie Wang](https://github.com/jw6190)
+- [Tong Jin](https://github.com/tong-jin-nyu)
+- [Zixuan Zhou](https://github.com/timzhou1009)
+
+## File Structure
+
+- folder: `data`: data files
+  - folder: `raw`: original 
+- dev
+
+## Reference
+
+Metsis, I. Androutsopoulos and G. Paliouras, ["Spam Filtering with Naive Bayes - Which Naive Bayes?"](http://www2.aueb.gr/users/ion/docs/ceas2006_paper.pdf). Proceedings of the 3rd Conference on Email and Anti-Spam (CEAS 2006), Mountain View, CA, USA, 2006.
