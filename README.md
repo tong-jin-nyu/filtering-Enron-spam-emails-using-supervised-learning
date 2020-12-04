@@ -64,6 +64,8 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 
 ## Results
 
+Results pending.
+
 ## Reference
 
 Metsis, I. Androutsopoulos and G. Paliouras, ["Spam Filtering with Naive Bayes - Which Naive Bayes?"](http://www2.aueb.gr/users/ion/docs/ceas2006_paper.pdf). Proceedings of the 3rd Conference on Email and Anti-Spam (CEAS 2006), Mountain View, CA, USA, 2006.
