@@ -54,17 +54,17 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 
 *For details, please read the full EDA report.*
 
-![Distribution of Word Counts in Email Instances](results/distribution_of_word_counts_in_email_instances.png)
+![Distribution of Word Counts in Email Instances](results/eda/distribution_of_word_counts_in_email_instances.png)
 
-![Word Cloud Type 1](results/word_cloud_type1.png)
+![Word Cloud Type 1](results/eda/word_cloud_type1.png)
 
-![Word Cloud Type 2](results/word_cloud_type2.png)
+![Word Cloud Type 2](results/eda/word_cloud_type2.png)
 
-![Top 15 Common Words Used in Emails](results/top_15_common_words_used_in_emails.png)
+![Top 15 Common Words Used in Emails](results/eda/top_15_common_words_used_in_emails.png)
 
-![Top 15 Common Adjectives Used in Emails](results/top_15_common_adjectives_used_in_emails.png)
+![Top 15 Common Adjectives Used in Emails](results/eda/top_15_common_adjectives_used_in_emails.png)
 
-![Top 15 Common Adverbs Used in Emails](results/top_15_common_adverbs_used_in_emails.png)
+![Top 15 Common Adverbs Used in Emails](results/eda/top_15_common_adverbs_used_in_emails.png)
 
 ## Results
 
