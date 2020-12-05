@@ -71,6 +71,7 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 ## Results
 
 |               **Model**              |**AUC Score**| **Precision** |**F-0.5 Score**| **Accuracy**|
+| ------------------------------------ | :--------:  | :-----------: | :-----------: |:-----------:|
 | Random Forest                        | 0.8699      | 0.71          | 0.7367        | 0.7665      |
 | Logistic Regression with Elastic Net | 0.9264      | 0.83          | 0.8388        | 0.8368      |
 | Multinomial Naive Bayes              | 0.9354      | 0.87          | 0.8612        | 0.8533      |
