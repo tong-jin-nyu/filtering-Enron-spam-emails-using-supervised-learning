@@ -1,6 +1,6 @@
 # Filtering Enron Spam Emails using Supervised Learning
 
-*Edited on: 12/05/2020*
+*Edited on: 12/05/2020 by Tong Jin*
 
 ![Filtering Enron Spam Emails using Supervised Learning](asset/social_cover.jpg)
 
