@@ -2,6 +2,8 @@
 
 *Edited on: 12/05/2020*
 
+![Filtering Enron Spam Emails using Supervised Learning](asset/social_cover.jpg)
+
 ## Project Name
 
 Filtering Spam Emails with Supervised Learning Algorithms mUsing the Enron Datasets
