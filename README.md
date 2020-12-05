@@ -6,7 +6,7 @@
 
 ## Project Name
 
-Filtering Spam Emails with Supervised Learning Algorithms mUsing the Enron Datasets
+Filtering Spam Emails with Supervised Learning Algorithms Using the Enron Datasets
 
 ## Team Members
 
