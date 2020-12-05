@@ -66,6 +66,8 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 
 ![Top 15 Common Adverbs Used in Emails](results/eda/top_15_common_adverbs_used_in_emails.png)
 
+![Top 15 Common Nouns Used in Emails](results/eda/top_15_common_nouns_used_in_emails.png)
+
 ## Results
 
 Results pending.
