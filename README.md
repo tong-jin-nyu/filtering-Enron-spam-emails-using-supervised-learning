@@ -32,13 +32,15 @@ Using machine learning techniques to train a classifier that automatically ident
 
 ## Trained Models
 
-1. Logistic regression with elastic net (Baseline)
+1. Random Forest (Baseline)
 
-2. Random Forest
+2. Logistic regression with elastic net
 
 3. Gradient Boosting Machine
 
 4. Multilayer Perceptron
+
+5. Multinomial Naive Bayes
 
 ## Grading
 
