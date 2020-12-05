@@ -106,6 +106,7 @@ The main evaluation measurement we used is the **Area Under the ROC Curve (AUC)*
     |    |--- eda                        # EDA result files
     |    |--- archive
     |--- final_report.pdf                # Complete business report
+    |--- LICENSE
     |--- README.md
 
 ## Reference
