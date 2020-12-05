@@ -32,15 +32,13 @@ Using machine learning techniques to train a classifier that automatically ident
 
 ## Trained Models
 
-1. Random Forest (Baseline)
+1. Logistic regression with elastic net (Baseline)
 
-2. Logistic regression with elastic net
+2. Random Forest
 
 3. Gradient Boosting Machine
 
 4. Multilayer Perceptron
-
-5. Multinomial Naive Bayes
 
 ## Grading
 
@@ -72,7 +70,14 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 
 ## Results
 
-![Comparison on ROC Curves](results/roc_curves.png)
+|               **Model**              |**AUC Score**| **Precision** |**F-0.5 Score**| **Accuracy**|
+| Random Forest                        | 0.8699      | 0.71          | 0.7367        | 0.7665      |
+| Logistic Regression with Elastic Net | 0.9264      | 0.83          | 0.8388        | 0.8368      |
+| Multinomial Naive Bayes              | 0.9354      | 0.87          | 0.8612        | 0.8533      |
+| Gradient Boosting Machine            | 0.9083      | 0.79          | 0.8086        | 0.8309      |
+| Multilayer Perceptron                | 0.8879      | 0.83          | 0.8207        | 0.8196      |
+
+![ROC Curves of Models](results/roc_curves.png)
 
 ## Reference
 
