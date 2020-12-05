@@ -70,7 +70,7 @@ We use AUC (Area Under the ROC Curve) scores to measure model performance. Addit
 
 ## Results
 
-Results pending.
+![Comparison on ROC Curves](results/roc_curves.png)
 
 ## Reference
 
